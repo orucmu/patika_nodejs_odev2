@@ -1,6 +1,3 @@
-const { rejects } = require("assert");
-const { resolve } = require("path");
-
 const userPost = [
     { user: 'User1', post: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.' },
     { user: 'User2', post: 'Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet.' },
